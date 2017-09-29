@@ -1,38 +1,13 @@
 {
-    "name": "laravel/lumen",
-    "description": "The Laravel Lumen Framework.",
-    "keywords": ["framework", "laravel", "lumen"],
-    "license": "MIT",
-    "type": "project",
     "require": {
-        "php": ">=5.6.4",
-        "laravel/lumen-framework": "5.4.*",
-        "vlucas/phpdotenv": "~2.2",
-        "krisanalfa/lumen-dingo-adapter": "^0.0.3",
-        "doctrine/dbal": "^2.5"
-    },
-    "require-dev": {
-        "fzaninotto/faker": "~1.4",
-        "phpunit/phpunit": "~5.0",
-        "mockery/mockery": "~0.9",
-        "flipbox/lumen-generator": "^5.4"
-    },
-    "autoload": {
-        "psr-4": {
-            "App\\": "app/"
-        }
-    },
-    "autoload-dev": {
-        "classmap": [
-            "tests/",
-            "database/"
-        ]
-    },
-    "scripts": {
-        "post-root-package-install": [
-            "php -r \"copy('.env.example', '.env');\""
-        ]
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+        "slim/slim": "^3.0",
+        "tuupola/slim-jwt-auth": "^2.3",
+        "tuupola/slim-basic-auth": "^2.2",
+        "tuupola/cors-middleware": "^0.5.2",
+        "firebase/php-jwt": "^5.0",
+        "tuupola/base62": "^0.8.0",
+        "paragonie/random_compat": "^2.0",
+        "monolog/monolog": "^1.23",
+        "illuminate/database": "^5.4"
+    }
 }

@@ -1,0 +1,31 @@
+[2017-09-29 18:17:10] slim-app.DEBUG: CORS analysis for request started. [] {"uid":"72c5768"}
+[2017-09-29 18:17:10] slim-app.DEBUG: Request is not CORS (request origin is empty or equals to server one). Check config settings for Server Origin. {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: ://)"} {"uid":"72c5768"}
+[2017-09-29 18:17:10] slim-app.DEBUG: CORS analysis for request completed. [] {"uid":"72c5768"}
+[2017-09-29 18:17:10] slim-app.WARNING: Token not found [] {"uid":"72c5768"}
+[2017-09-29 18:17:17] slim-app.DEBUG: CORS analysis for request started. [] {"uid":"71802a9"}
+[2017-09-29 18:17:17] slim-app.DEBUG: Request is not CORS (request origin is empty or equals to server one). Check config settings for Server Origin. {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: ://)"} {"uid":"71802a9"}
+[2017-09-29 18:17:17] slim-app.DEBUG: CORS analysis for request completed. [] {"uid":"71802a9"}
+[2017-09-29 18:17:17] slim-app.DEBUG: Using token from environment [] {"uid":"71802a9"}
+[2017-09-29 18:17:17] slim-app.WARNING: Expired token ["eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MDY2NzgyNDQsImV4cCI6MTUwNjY3ODg0NCwianRpIjoiNlh2Szkya0Eyd1g0dXF0MjJ0c1hsOSIsInN1YiI6InN1cGVyYWRtaW4iLCJyb2xlcyI6WyJBZG1pbiIsIlN1cGVyVXNlciJdfQ.1oqj8Bub5MUplKLFf9q6oGHom6st_lbmJtpQmk_CCXI"] {"uid":"71802a9"}
+[2017-09-29 18:17:40] slim-app.DEBUG: CORS analysis for request started. [] {"uid":"2dca0b2"}
+[2017-09-29 18:17:40] slim-app.DEBUG: Request is identified as an actual CORS request. [] {"uid":"2dca0b2"}
+[2017-09-29 18:17:40] slim-app.DEBUG: CORS analysis for request completed. [] {"uid":"2dca0b2"}
+[2017-09-29 18:18:20] slim-app.DEBUG: CORS analysis for request started. [] {"uid":"8ff0773"}
+[2017-09-29 18:18:20] slim-app.DEBUG: Request is not CORS (request origin is empty or equals to server one). Check config settings for Server Origin. {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: ://)"} {"uid":"8ff0773"}
+[2017-09-29 18:18:20] slim-app.DEBUG: CORS analysis for request completed. [] {"uid":"8ff0773"}
+[2017-09-29 18:18:20] slim-app.DEBUG: Using token from environment [] {"uid":"8ff0773"}
+[2017-09-29 18:18:28] slim-app.DEBUG: CORS analysis for request started. [] {"uid":"eb96df9"}
+[2017-09-29 18:18:28] slim-app.DEBUG: Request is not CORS (request origin is empty or equals to server one). Check config settings for Server Origin. {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: ://)"} {"uid":"eb96df9"}
+[2017-09-29 18:18:28] slim-app.DEBUG: CORS analysis for request completed. [] {"uid":"eb96df9"}
+[2017-09-29 18:18:28] slim-app.DEBUG: Using token from environment [] {"uid":"eb96df9"}
+[2017-09-29 18:18:32] slim-app.DEBUG: CORS analysis for request started. [] {"uid":"995a4a6"}
+[2017-09-29 18:18:32] slim-app.DEBUG: Request is not CORS (request origin is empty or equals to server one). Check config settings for Server Origin. {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: ://)"} {"uid":"995a4a6"}
+[2017-09-29 18:18:32] slim-app.DEBUG: CORS analysis for request completed. [] {"uid":"995a4a6"}
+[2017-09-29 18:18:32] slim-app.DEBUG: Using token from environment [] {"uid":"995a4a6"}
+[2017-09-29 18:22:10] slim-app.DEBUG: CORS analysis for request started. [] {"uid":"45ee536"}
+[2017-09-29 18:22:10] slim-app.DEBUG: Request is not CORS (request origin is empty or equals to server one). Check config settings for Server Origin. {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: ://)"} {"uid":"45ee536"}
+[2017-09-29 18:22:10] slim-app.DEBUG: CORS analysis for request completed. [] {"uid":"45ee536"}
+[2017-09-29 18:22:10] slim-app.DEBUG: Using token from environment [] {"uid":"45ee536"}
+[2017-09-29 18:22:13] slim-app.DEBUG: CORS analysis for request started. [] {"uid":"34df7bc"}
+[2017-09-29 18:22:13] slim-app.DEBUG: Request is identified as an actual CORS request. [] {"uid":"34df7bc"}
+[2017-09-29 18:22:13] slim-app.DEBUG: CORS analysis for request completed. [] {"uid":"34df7bc"}
